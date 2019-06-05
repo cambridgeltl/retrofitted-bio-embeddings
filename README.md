@@ -6,7 +6,7 @@ Contact: Billy Chiu (billy1985322@gmail.com)
 
 This repository contains the code and data for the retrofitting method presented in <PAPER NAME>. The word vectors which achieve the state of the art results can be downloaded <VECTOR LINK>.
 
-Configuring the Tool
+### Configuring the Tool
 The tool reads all the experiment config parameters from the run_retrofit.sh file in the root directory.
 
 The config file specifies:
@@ -17,14 +17,14 @@ The config file also specifies the hyperparameters of the procedure (set to thei
 
 The evaluation tasks can be downloaded from [here:Relation Extraction](https://github.com/jbjorne/TEES) and [here:Text classification](https://github.com/cambridgeltl/multilabel-nn).
 
-Create retrofitted model
+### Create retrofitted model
 python ./run_retrofit.sh
 
 Running the experiment loads the word vectors specified in the config file and fits them to the provided linguistic constraints. The procedure output the updated word vectors to the results directory as output_vec/final_vectors.bin (one word vector per line).
 
-*Note that the vectors used in this experiment have been compressed from .txt format into .bin format, text2bin/bin2text tools are be download [here](https://github.com/marekrei/convertvec) 
+**Note that the vectors used in this experiment have been compressed from .txt format into .bin format, text2bin/bin2text tools are be download [here](https://github.com/marekrei/convertvec) 
 
-Reference:
+### Reference:
 The paper which introduces the procedure:
 
  @inproceedings{
