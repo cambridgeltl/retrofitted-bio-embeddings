@@ -15,7 +15,7 @@ WVDIR: the location of the initial word vectors (distributional_vectors);
 LEXDIR: the sets of linguistic constraints to be injected into the vector space (synonyms_verb);
 The config file also specifies the hyperparameters of the procedure (set to their default values in run_retrofit.sh).
 
-The evaluation tasks can be downloaded from [here:Relation Extraction](https://github.com/jbjorne/TEES) and [here:Text classification](https://github.com/cambridgeltl/multilabel-nn).
+The evaluation tasks can be downloaded from [Relation Extraction](https://github.com/jbjorne/TEES) and [Text classification](https://github.com/cambridgeltl/multilabel-nn).
 
 ### Create retrofitted model
 python ./run_retrofit.sh
