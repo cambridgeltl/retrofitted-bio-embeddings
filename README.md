@@ -26,11 +26,13 @@ Running the experiment loads the word vectors specified in the config file and f
 
 ### Reference:
 The paper which introduces the procedure:
-
+ ```
  @inproceedings{
  }
-
+ ```
+ 
 If you are using bio-VerbNet constraints, please cite:
+```
   @article{chiu2019neural,
     title={A neural classification method for supporting the creation of BioVerbNet},
     author={Chiu, Billy and Majewska, Olga and Pyysalo, Sampo and Wey, Laura and Stenius, Ulla and Korhonen, Anna and Palmer, Martha},
@@ -41,3 +43,4 @@ If you are using bio-VerbNet constraints, please cite:
     year={2019},
     publisher={BioMed Central}
   }
+ ```
