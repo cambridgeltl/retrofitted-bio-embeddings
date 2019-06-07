@@ -1,10 +1,10 @@
 # Retrofitted bio-embeddings
 
-<PAPER NAME>.
+##Enhancing biomedical word embeddings by retrofitting to verb clusters
 
 Contact: Billy Chiu (billy1985322@gmail.com)
 
-This repository contains the code and data for the retrofitting method presented in <PAPER NAME>. The word vectors which achieve the state of the art results can be downloaded <VECTOR LINK>.
+This repository contains the code and data for the paper *Enhancing biomedical word embeddings by retrofitting to verb clusters*. The word vectors which achieve the state of the art results can be downloaded <VECTOR LINK>.
 
 ### Configuring the Tool
 The tool reads all the experiment config parameters from the run_retrofit.sh file in the root directory.
@@ -31,16 +31,3 @@ The paper which introduces the procedure:
  }
  ```
  
-If you are using bio-VerbNet constraints, please cite:
-```
-  @article{chiu2019neural,
-    title={A neural classification method for supporting the creation of BioVerbNet},
-    author={Chiu, Billy and Majewska, Olga and Pyysalo, Sampo and Wey, Laura and Stenius, Ulla and Korhonen, Anna and Palmer, Martha},
-    journal={Journal of biomedical semantics},
-    volume={10},
-    number={1},
-    pages={2},
-    year={2019},
-    publisher={BioMed Central}
-  }
- ```
