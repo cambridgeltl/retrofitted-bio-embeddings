@@ -4,7 +4,7 @@
 
 Contact: Billy Chiu (billy1985322@gmail.com)
 
-This repository contains the code and data for the paper *Enhancing biomedical word embeddings by retrofitting to verb clusters*. The word vectors which achieve the state of the art results can be downloaded <VECTOR LINK>.
+This repository contains the code and retrofitted embeddings for the paper *Enhancing biomedical word embeddings by retrofitting to verb clusters* in BioNLP 2019. The word vectors which achieve the state of the art results can be downloaded <VECTOR LINK>.
 
 ### Configuring the Tool
 The tool reads all the experiment config parameters from the run_retrofit.sh file in the root directory.
