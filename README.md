@@ -1,6 +1,6 @@
 # Retrofitted bio-embeddings
 
-##Enhancing biomedical word embeddings by retrofitting to verb clusters
+## Enhancing biomedical word embeddings by retrofitting to verb clusters
 
 Contact: Billy Chiu (billy1985322@gmail.com)
 
