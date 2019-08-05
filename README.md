@@ -27,7 +27,12 @@ Running the experiment loads the word vectors specified in the config file and f
 ### Reference:
 The paper which introduces the procedure:
  ```
- @inproceedings{
- }
+@inproceedings{chiu2019enhancing,
+  title={Enhancing biomedical word embeddings by retrofitting to verb clusters},
+  author={Chiu, Billy and Baker, Simon and Palmer, Martha and Korhonen, Anna},
+  booktitle={Proceedings of the 18th BioNLP Workshop and Shared Task},
+  pages={125--134},
+  year={2019}
+}
  ```
  
