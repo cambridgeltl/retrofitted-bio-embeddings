@@ -16,7 +16,7 @@ The following word embeddings files (.bin format) achieve the state-of-the-art (
 
 You can download there files from [here](https://figshare.com/articles/Enhancing_biomedical_word_embeddings_by_retrofitting_to_verb_clusters/9723827).
 
-**Note that the vectors used in this experiment have been compressed from .txt format into .bin format, text2bin/bin2text tools are be download [here](https://github.com/marekrei/convertvec) 
+**Note that these embeddings have been compressed from .txt format into .bin format using *text2bin/bin2text* tools are be download [here](https://github.com/marekrei/convertvec) 
 
 ### Configuring the Tool
 The tool reads all the experiment config parameters from the run_retrofit.sh file in the root directory.
