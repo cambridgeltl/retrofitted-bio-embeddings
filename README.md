@@ -4,7 +4,16 @@
 
 Contact: Billy Chiu (billy1985322@gmail.com)
 
-This repository contains the code and retrofitted embeddings for the paper *Enhancing biomedical word embeddings by retrofitting to verb clusters* in BioNLP 2019. The word vectors which achieve the state of the art results can be downloaded [here](https://figshare.com/articles/Enhancing_biomedical_word_embeddings_by_retrofitting_to_verb_clusters/9723827).
+This repository contains the code and retrofitted embeddings for the paper *Enhancing biomedical word embeddings by retrofitting to verb clusters* in BioNLP 2019. 
+
+The word embeddings which achieve the state-of-the-art (SOTA) results can be downloaded from here (1.68 GB each file): 
+
+[Embeddings retrofitted to 16 verb classes ](https://ndownloader.figshare.com/files/17414963)
+[Embeddings retrofitted to 34 verb classes (SOTA on relation extraction & sentence classification)](https://ndownloader.figshare.com/files/17414960)
+[Embeddings retrofitted to 50 verb classes (SOTA on document classification)](https://ndownloader.figshare.com/files/17414957)
+
+You can download there files from [here](https://figshare.com/articles/Enhancing_biomedical_word_embeddings_by_retrofitting_to_verb_clusters/9723827).
+
 
 ### Configuring the Tool
 The tool reads all the experiment config parameters from the run_retrofit.sh file in the root directory.
