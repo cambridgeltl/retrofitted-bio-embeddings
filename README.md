@@ -36,7 +36,7 @@ Running the experiment loads the word vectors specified in the config file and f
 
 
 ### Reference
-The paper which introduces the procedure:
+please cite our paper:
  ```
 @inproceedings{chiu2019enhancing,
   title={Enhancing biomedical word embeddings by retrofitting to verb clusters},
