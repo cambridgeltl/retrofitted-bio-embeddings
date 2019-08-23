@@ -4,7 +4,7 @@
 
 Contact: Billy Chiu (billy1985322@gmail.com)
 
-This repository contains the code and retrofitted embeddings for the paper *Enhancing biomedical word embeddings by retrofitting to verb clusters* in BioNLP 2019. The word vectors which achieve the state of the art results can be downloaded <VECTOR LINK>.
+This repository contains the code and retrofitted embeddings for the paper *Enhancing biomedical word embeddings by retrofitting to verb clusters* in BioNLP 2019. The word vectors which achieve the state of the art results can be downloaded [VECTOR LINK](https://figshare.com/articles/Enhancing_biomedical_word_embeddings_by_retrofitting_to_verb_clusters/9723827).
 
 ### Configuring the Tool
 The tool reads all the experiment config parameters from the run_retrofit.sh file in the root directory.
@@ -24,7 +24,7 @@ Running the experiment loads the word vectors specified in the config file and f
 
 **Note that the vectors used in this experiment have been compressed from .txt format into .bin format, text2bin/bin2text tools are be download [here](https://github.com/marekrei/convertvec) 
 
-### Reference:
+### Reference
 The paper which introduces the procedure:
  ```
 @inproceedings{chiu2019enhancing,
@@ -35,4 +35,7 @@ The paper which introduces the procedure:
   year={2019}
 }
  ```
- 
+
+### License
+All data on this page is made available under the Creative Commons Attribution (CC BY) license
+
