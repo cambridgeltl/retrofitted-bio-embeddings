@@ -4,7 +4,7 @@
 
 Contact: Billy Chiu (billy1985322@gmail.com)
 
-This repository contains the code and retrofitted embeddings for the paper *Enhancing biomedical word embeddings by retrofitting to verb clusters* in BioNLP 2019. 
+This repository contains the code and retrofitted embeddings for the paper *[Enhancing biomedical word embeddings by retrofitting to verb clusters](https://www.aclweb.org/anthology/W19-5014)* in BioNLP 2019. 
 
 The following word embeddings files (.bin format) achieve the state-of-the-art (SOTA) results, they can be downloaded from here (1.68 GB each file): 
 
