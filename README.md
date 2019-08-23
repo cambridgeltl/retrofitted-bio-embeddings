@@ -14,7 +14,7 @@ The following word embeddings files (.bin format) achieve the state-of-the-art (
 
 * [Word embeddings retrofitted to 50 verb classes](https://ndownloader.figshare.com/files/17414957) (this achieved SOTA on document classification)
 
-You can download there files from [here](https://figshare.com/articles/Enhancing_biomedical_word_embeddings_by_retrofitting_to_verb_clusters/9723827).
+You can also download the above three files from [here](https://figshare.com/articles/Enhancing_biomedical_word_embeddings_by_retrofitting_to_verb_clusters/9723827).
 
 **Note that these embeddings have been compressed from .txt format into .bin format using *text2bin/bin2text* tools are be download [here](https://github.com/marekrei/convertvec) 
 
